@@ -22,3 +22,11 @@ byte rowPins[ROWS] = {10,11,12,13,A0,A1,A2,A3};
 
 Columns would be A through H
 Rows would be 0 to 7
+
+## Image of prototype
+
+Here's an image of the keyboard interface on the breadboard version of my BASIC computer. You can see the Arduino mini tucked away under some cables. You can see a small part of the keyboard on the top left.
+
+![keyboard interface](https://cloud.githubusercontent.com/assets/58341/23280476/a3c22780-fa19-11e6-8ba8-23c6256a31ac.png)
+
+
